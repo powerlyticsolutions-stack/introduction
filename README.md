@@ -137,9 +137,8 @@ Tools      : Power BI, DAX, Power Query, SQL Server, Azure, Excel
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Gmail-Hire_Me-FF007F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivendra-bhadauriya/)
+[![Email](https://img.shields.io/badge/Gmail-Hire_Me-FF007F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Shivendra.ssb@gmail.com)
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&amp;color=7B00FF&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" alt="Profile Views" />
